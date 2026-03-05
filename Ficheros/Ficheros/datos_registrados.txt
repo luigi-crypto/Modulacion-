@@ -1,0 +1,9 @@
+=== REGISTRO ===
+Nombre(s): Luis Diego
+Apellido Paterno: Aguilar
+Apellido Materno: Rodriguez
+Fecha de Nacimiento: 28/05/2007
+CURP: no lo se
+Domicilio: Corregidora,Queretaro
+================
+
